@@ -1,3 +1,10 @@
 python-dotenv
 py-cord
-gpt4all
+langchain
+llama-cpp-python
+chromadb
+pypdf
+unstructured
+requests
+gradio
+jupyterlab

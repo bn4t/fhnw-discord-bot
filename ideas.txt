@@ -1,0 +1,2 @@
+- https://github.com/curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain/blob/master/06.private-gpt4all-qa-pdf.ipynb
+- checkout how to add all documents to the db (split up?)
